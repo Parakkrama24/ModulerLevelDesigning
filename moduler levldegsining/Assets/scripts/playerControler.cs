@@ -7,7 +7,7 @@ public class playerControler : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //this is a code
     }
 
     // Update is called once per frame
