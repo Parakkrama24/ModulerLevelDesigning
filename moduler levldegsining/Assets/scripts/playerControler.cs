@@ -7,7 +7,7 @@ public class playerControler : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //this is a code
+        //this is a codegjmhv
     }
 
     // Update is called once per frame
